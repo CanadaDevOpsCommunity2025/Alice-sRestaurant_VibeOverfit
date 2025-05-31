@@ -9,4 +9,7 @@ Participant Name: **Iain Aspenlieder**
 
 -------------------------------------
 
-AWS Code: PC1HI1ELCHPW2LN 
+AWS Code: XXXXXXXXXXX
+
+#### For credit details, please reach out to the administrator on Slack: Contact Administrator.
+##### https://app.slack.com/huddle/T01BN24U54L/C08SF5BUGN4
