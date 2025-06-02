@@ -7,7 +7,13 @@ Group Name: **Vibe Overfit**
 
 Participant Name: **Iain Aspenlieder**
 
-------------------------------------
+
+Alice's Restaurant is a white-hat social engineering Application designed to observe a target subject (or any) communication and provide its User communication content intended to nudge the User toward an axiomatic Good. The User will have the choice whether to express the Computer-Brain suggested communication. 
+
+A demo Application in Glide is available on request by email. 
+
+
+-----------------------------------
 
 AWS Code: XXXXXXXXXXX
 
